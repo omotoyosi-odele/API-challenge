@@ -3,4 +3,4 @@ Python API Challenge
 # Author
 Omotoyosi Odele
 # Objective
-Working with several APIs, analysis and visualising their data with Python and Matplotlib
+Working with OpenWeather and Google Maps APIs, analysing and visualising their data with Python and Matplotlib
