@@ -1,4 +1,4 @@
-# python-API-challenge
+# API-challenge
 Python API Challenge
 # Author
 Omotoyosi Odele
