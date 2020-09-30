@@ -7,7 +7,12 @@ Working with OpenWeather and Google Maps APIs, analysing and visualising their d
 
 # What's the weather like as we approach the equator?
 I plotted a graph of the maximum temperatures against the latitudes of over 600 cities.
-Based on the plot below, it is clear that temperature rises as we get closer to the equator
+Based on the plot below, we can see that temperature rises as we get closer to the equator
+
 ![World Temperatures](Images/CityLatMaxTemp.png)
 
+In addition, the northern hemisphere is generally more humid than the southern hemisphere
+![World Temperatures](Images/CityLatHumidity.png)
 
+...while wind speed rises the farther we get from the equator
+![World Temperatures](Images/CityLatWindSpeed.png)
