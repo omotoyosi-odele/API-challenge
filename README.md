@@ -22,7 +22,9 @@ Using OpenWeather API, I was able to determine cities with the following weather
 * A max temperature lower than 80 degrees but higher than 70
 * Wind speed less than 10 mph
 * Zero cloudiness
+
 ![Best Weather Cities](Images/HeatLayerMap.png)
 
 And then, using Google Maps Places API, I was able to determine hotels and vacations spots in those cities. We are vacation ready!
-![Best Weather Hotels](Images/HotelLayerMap.png)
+
+![Best Weather Hotels](Images/HotelMap.png)
