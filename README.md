@@ -18,6 +18,11 @@ In addition, the northern hemisphere is generally more humid than the southern h
 
 ![World Wind Speed](Images/CityLatWindSpeed.png)
 
+
+...and latitude does not affect cloudiness but there are clusters of 0, 40, 80 and 100% cloudiness in the southern hemisphere
+
+![World Cloudiness](Images/CityCloudiness.png)
+
 # Vacation cities with the nicest weather?
 Using OpenWeather API, I was able to determine cities with the following weather conditions
 * A max temperature lower than 80 degrees but higher than 70
