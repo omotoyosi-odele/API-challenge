@@ -15,6 +15,7 @@ In addition, the northern hemisphere is generally more humid than the southern h
 ![World Humidity](Images/CityLatHumidity.png)
 
 ...while wind speed rises the farther we get from the equator
+
 ![World Wind Speed](Images/CityLatWindSpeed.png)
 
 # Vacation cities with the nicest weather?
