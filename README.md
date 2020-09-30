@@ -12,7 +12,17 @@ Based on the plot below, we can see that temperature rises as we get closer to t
 ![World Temperatures](Images/CityLatMaxTemp.png)
 
 In addition, the northern hemisphere is generally more humid than the southern hemisphere
-![World Temperatures](Images/CityLatHumidity.png)
+![World Humidity](Images/CityLatHumidity.png)
 
 ...while wind speed rises the farther we get from the equator
-![World Temperatures](Images/CityLatWindSpeed.png)
+![World Wind Speed](Images/CityLatWindSpeed.png)
+
+# Vacation cities with the nicest weather?
+Using OpenWeather API, I was able to determine cities with the following weather conditions
+* A max temperature lower than 80 degrees but higher than 70
+* Wind speed less than 10 mph
+* Zero cloudiness
+![Best Weather Cities](Images/HeatLayerMap.png)
+
+And then, using Google Maps Places API, I was able to determine hotels and vacations spots in those cities. We are vacation ready!
+![Best Weather Hotels](Images/HotelLayerMap.png)
